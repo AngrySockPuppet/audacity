@@ -54,7 +54,7 @@ MSVC++ STEP 2:  Download source code for Audacity
 
 Checkout the latest Audacity code from our GitHub repository 
 at https://github.com/audacity/audacity/ (see GitHub for help).
-
+(Note: For download of release source code, see 'https://github.com/audacity/audacity/releases'.)
 
 ------------------------------------------------------------------------
 MSVC++ STEP 3:  Build wxWidgets
